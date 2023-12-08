@@ -117,11 +117,11 @@ VideoMaker
 
 
 <div className='relative z-50 max-w-xs w-72 flex items-center justify-start'>
-<iframe width="360" height="215" src="https://www.youtube.com/embed/DFmhXON9TII?si=uI3VyrwT4riXbUd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/DFmhXON9TII?si=uI3VyrwT4riXbUd2" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
 </div>
 
 <div className='relative z-50 max-w-xs w-72 flex items-center justify-start'>
-<iframe width="360" height="215" src="https://www.youtube.com/embed/E8x77VA5eS8?si=VgjdVGWQKp9nMiYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/E8x77VA5eS8?si=VgjdVGWQKp9nMiYZ" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
 </div>
 
 
