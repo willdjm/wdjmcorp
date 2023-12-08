@@ -15,7 +15,7 @@ return (
 FrontEnd Developer
 </h2>
 </div>
-<div className='md:flex w-full pt-2 gap-5 items-center md:justify-start flex flex-col justify-center'>
+<div className='md:flex md:flex-wrap w-full pt-2 gap-5 items-center md:justify-start flex flex-col justify-center'>
 <div className="overflow-hidden max-w-xs w-72 aspect-vide cursor-pointer relative group">
 <div className="z-50 opacity-0 group-hover:opacity-100 transition h-full duration-300 ease-in-out cursor-pointer absolute from-purple-400/80 to-transparent bg-gradient-to-t inset-x-0  text-white flex justify-center items-center">
 <div className="group-hover:opacity-100 group-hover:translate-y-0 gap-6 flex translate-y-4  transform transition duration-300 ease-in-out">
