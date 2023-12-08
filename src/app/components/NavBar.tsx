@@ -11,7 +11,7 @@ export function NavBar() {
   const [navbar, setNavbar] = useState(false);
   return (
     <div id='Top'>
-      <nav className="w-full fixed top-0 lg:top-10 px-2 py-2 left-0 right-0 z-50">
+      <nav className="w-full fixed top-0 lg:top-10 px-2 py-2 left-0 right-0 z-50 bg-black">
         <div className="justify-between mx-auto md:items-center md:flex md:px-8">
           <div>
             <div className="flex items-center justify-between md:block">
