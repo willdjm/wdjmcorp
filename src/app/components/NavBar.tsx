@@ -46,7 +46,7 @@ export function NavBar() {
           <div>
             <div
               className={`w-full h-full flex items-center justify-center md:block md:pb-0 md:mt-0 ${
-                navbar ? 'p-0 md:p-0 block bg-black opacity-80 md:bg-transparent w-full' : 'hidden'
+                navbar ? 'p-0 md:p-0 block bg-black opacity-80 md:bg-transparent w-full relative z-50' : 'hidden'
               }`}
             >
               <div id='home' className="h-screen md:h-auto md:items-end items-center justify-center md:grid gap-5">
