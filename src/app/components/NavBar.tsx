@@ -52,13 +52,13 @@ export function NavBar() {
               <div id='home' className="h-screen md:h-auto md:items-end items-center justify-center md:grid gap-5">
                 <ul className='md:flex md:items-center md:justify-end gap-10'>
                 <li className="text-base text-white py-2 px-6 md:py-0 md:px-0 text-center border-b-2 md:border-b-2 md:border-opacity-0 border-white md:hover:bg-transparent">
-                <Linkk className='cursor-pointer uppercase' href="#tec" onClick={() => setNavbar(!navbar)}>Sobre Mim</Linkk>
+                <Linkk className='cursor-pointer uppercase hover:underline' href="#tec" onClick={() => setNavbar(!navbar)}>Sobre Mim</Linkk>
                 </li>
                 <li className="text-base  text-white py-2 px-6 md:py-0 md:px-0 text-center border-b-2 md:border-b-2 md:border-opacity-0 border-white md:hover:bg-transparent">
-                <Linkk className='cursor-pointer' href="#port" onClick={() => setNavbar(!navbar)}>PORTLÓFIO</Linkk>
+                <Linkk className='cursor-pointer uppercase hover:underline' href="#port" onClick={() => setNavbar(!navbar)}>PORTLÓFIO</Linkk>
                 </li>
                 <li className="text-base  text-white py-2 px-6 md:py-0 md:px-0 text-center border-b-2 md:border-b-2 md:border-opacity-0 border-white md:hover:bg-transparent">
-                <Linkk className='cursor-pointer' href="/" onClick={() => setNavbar(!navbar)}>CONTACT</Linkk>
+                <Linkk className='cursor-pointer uppercase hover:underline' href="/" onClick={() => setNavbar(!navbar)}>CONTACT</Linkk>
                 </li>
 
 

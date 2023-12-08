@@ -19,10 +19,10 @@ FrontEnd Developer
 <div className="overflow-hidden max-w-xs w-72 aspect-vide cursor-pointer relative group">
 <div className="z-50 opacity-0 group-hover:opacity-100 transition h-full duration-300 ease-in-out cursor-pointer absolute from-purple-400/80 to-transparent bg-gradient-to-t inset-x-0  text-white flex justify-center items-center">
 <div className="group-hover:opacity-100 group-hover:translate-y-0 gap-6 flex translate-y-4  transform transition duration-300 ease-in-out">
-<Link href='https://globo.com' target='_blank' rel="noreferrer">
+<Link href='#' target='_blank' rel="noreferrer">
 <button className="bg-purple-700 hover:bg-purple-900 text-sm text-white font-medium py-2 px-4 rounded-xl">Github</button>
 </Link>
-<Link href='www.google.com.br' target='_blank' rel="noreferrer">
+<Link href='#' target='_blank' rel="noreferrer">
 <button className="bg-purple-700 hover:bg-purple-900 text-sm text-white font-medium py-2 px-4 rounded-xl">Projeto</button>
 </Link>
 </div>
@@ -33,10 +33,10 @@ FrontEnd Developer
 <div className="overflow-hidden max-w-xs w-72 aspect-vide cursor-pointer relative group">
 <div className="z-50 opacity-0 group-hover:opacity-100 transition h-full duration-300 ease-in-out cursor-pointer absolute from-green-400/80 to-transparent bg-gradient-to-t inset-x-0  text-white flex justify-center items-center">
 <div className="group-hover:opacity-100 group-hover:translate-y-0 gap-6 flex translate-y-4  transform transition duration-300 ease-in-out">
-<Link href='https://globo.com' target='_blank' rel="noreferrer">
+<Link href='#' target='_blank' rel="noreferrer">
 <button className="bg-green-600 hover:bg-green-700 text-sm text-white font-medium py-2 px-4 rounded-xl">Github</button>
 </Link>
-<Link href='www.google.com.br' target='_blank' rel="noreferrer">
+<Link href='#' target='_blank' rel="noreferrer">
 <button className="bg-green-600 hover:bg-green-700 text-sm text-white font-medium py-2 px-4 rounded-xl">Projeto</button>
 </Link>
 </div>
@@ -47,10 +47,10 @@ FrontEnd Developer
 <div className="overflow-hidden max-w-xs w-72 aspect-vide cursor-pointer relative group">
 <div className="z-50 opacity-0 group-hover:opacity-100 transition h-full duration-300 ease-in-out cursor-pointer absolute from-blue-500/80 to-transparent bg-gradient-to-t inset-x-0  text-white flex justify-center items-center">
 <div className="group-hover:opacity-100 group-hover:translate-y-0 gap-6 flex translate-y-4  transform transition duration-300 ease-in-out">
-<Link href='https://globo.com' target='_blank' rel="noreferrer">
+<Link href='#' target='_blank' rel="noreferrer">
 <button className="bg-blue-700 hover:bg-blue-800 text-sm text-white font-medium py-2 px-4 rounded-xl">Github</button>
 </Link>
-<Link href='www.google.com.br' target='_blank' rel="noreferrer">
+<Link href='#' target='_blank' rel="noreferrer">
 <button className="bg-blue-700 hover:bg-blue-800 text-sm text-white font-medium py-2 px-4 rounded-xl">Projeto</button>
 </Link>
 </div>

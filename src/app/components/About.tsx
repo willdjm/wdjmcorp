@@ -22,28 +22,28 @@ export function AboutMe() {
 <h2 className='lg:text-3xl text-xl items-center lg:pb-3'>Developer Front-End</h2>
 
 <div className='text-white flex items-center justify-center gap-2 justify-items-center'>
-<Link href="https://github.com/willdjm"
+<Link target="_blank" href="https://github.com/willdjm"
 className='flex gap-1 items-center cursor-pointer text-base lg:justify-end'>
 <AiFillGithub className='cursor-pointer hidden md:flex' size={30} />
 <AiFillGithub className='cursor-pointer md:hidden flex' size={30} />
 </Link>
-<Link href="https://www.linkedin.com/in/wilkinsondouglas/"
+<Link target="_blank" href="https://www.linkedin.com/in/wilkinsondouglas/"
 className='flex gap-1 items-center cursor-pointer text-base lg:justify-end'>
 <BsLinkedin size={28} />
 </Link>
-<Link href="https://www.instagram.com/willdjm/"
+<Link target="_blank" href="https://www.instagram.com/willdjm/"
 className='flex gap-1 items-center cursor-pointer text-base lg:justify-end'>
 <AiOutlineInstagram size={33} />
 </Link>
-<Link href="https://www.facebook.com.br/wilkinsondouglas/"
+<Link target="_blank" href="https://www.facebook.com.br/wilkinsondouglas/"
 className='flex gap-1 items-center cursor-pointer text-base lg:justify-end'>
 <FaFacebookF size={30} />
 </Link>
-<Link href="mailto:wilkindondjm@gmail.com"
+<Link target="_blank" href="https://wa.me/+5511945676016"
 className='flex items-center cursor-pointer text-base lg:justify-end'>
 <BsWhatsapp size={30} />
 </Link>
-<Link href="mailto:wilkindondjm@gmail.com"
+<Link target="_blank" href="mailto:wilkindondjm@gmail.com"
 className='flex items-center cursor-pointer text-base lg:justify-end'>
 <MdOutlineMailOutline size={30} />
 </Link>
